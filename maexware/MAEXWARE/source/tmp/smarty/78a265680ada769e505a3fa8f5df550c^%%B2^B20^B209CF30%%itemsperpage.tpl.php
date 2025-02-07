@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 14:22:09
+<?php /* Smarty version 2.6.34, created on 2025-02-07 15:31:18
          compiled from widget/locator/itemsperpage.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'count', 'widget/locator/itemsperpage.tpl', 4, false),array('modifier', 'oxaddparams', 'widget/locator/itemsperpage.tpl', 18, false),array('function', 'oxmultilang', 'widget/locator/itemsperpage.tpl', 7, false),)), $this); ?>

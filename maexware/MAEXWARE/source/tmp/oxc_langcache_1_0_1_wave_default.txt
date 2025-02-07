@@ -2389,7 +2389,6 @@ $aLangCache = array (
   'SHOP_MODULE_OeGdprOptinContactFormMethod' => '',
   'SHOP_MODULE_OeGdprOptinContactFormMethod_deletion' => 'Hinweis auf Löschen der Daten nach Verarbeitung anzeigen',
   'SHOP_MODULE_OeGdprOptinContactFormMethod_statistical' => 'Opt-in für Verarbeitung und statistische Verwendung der Daten anzeigen',
-  'oeloggerdemo' => 'OE Logger Demo',
   '_aSeoReplaceChars' => 
   array (
     'ä' => 'ae',

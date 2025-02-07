@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 16:02:10
+<?php /* Smarty version 2.6.34, created on 2025-02-07 13:20:48
          compiled from inputhelp.tpl */ ?>
 
     <input type="button" id="helpBtn_<?php echo $this->_tpl_vars['sHelpId']; ?>

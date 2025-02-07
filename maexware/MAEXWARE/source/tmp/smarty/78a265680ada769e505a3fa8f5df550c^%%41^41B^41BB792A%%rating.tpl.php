@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 16:41:17
+<?php /* Smarty version 2.6.34, created on 2025-02-07 15:34:09
          compiled from widget/reviews/rating.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'oxmultilangassign', 'widget/reviews/rating.tpl', 14, false),array('modifier', 'cat', 'widget/reviews/rating.tpl', 50, false),array('function', 'oxgetseourl', 'widget/reviews/rating.tpl', 50, false),array('function', 'oxmultilang', 'widget/reviews/rating.tpl', 55, false),)), $this); ?>

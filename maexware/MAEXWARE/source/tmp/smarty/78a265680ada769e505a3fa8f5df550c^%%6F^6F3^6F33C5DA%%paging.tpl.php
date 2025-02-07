@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 14:22:08
+<?php /* Smarty version 2.6.34, created on 2025-02-07 15:31:18
          compiled from widget/locator/paging.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'widget/locator/paging.tpl', 7, false),)), $this); ?>

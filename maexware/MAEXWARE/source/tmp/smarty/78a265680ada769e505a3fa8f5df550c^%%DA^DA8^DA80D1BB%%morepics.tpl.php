@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 16:41:16
+<?php /* Smarty version 2.6.34, created on 2025-02-07 15:34:09
          compiled from page/details/inc/morepics.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'count', 'page/details/inc/morepics.tpl', 4, false),array('modifier', 'getimagesize', 'page/details/inc/morepics.tpl', 15, false),array('function', 'oxscript', 'page/details/inc/morepics.tpl', 6, false),array('function', 'oxstyle', 'page/details/inc/morepics.tpl', 7, false),)), $this); ?>

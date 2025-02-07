@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 16:41:19
+<?php /* Smarty version 2.6.34, created on 2025-02-07 15:34:10
          compiled from page/details/inc/attributes.tpl */ ?>
 <dl class="attributes dl-horizontal">
     <?php $_from = $this->_tpl_vars['oView']->getAttributes(); if (($_from instanceof StdClass) || (!is_array($_from) && !is_object($_from))) { settype($_from, 'array'); }$this->_foreach['attribute'] = array('total' => count($_from), 'iteration' => 0);

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 14:22:08
+<?php /* Smarty version 2.6.34, created on 2025-02-07 15:31:18
          compiled from widget/locator/listlocator.tpl */ ?>
 <div class="refineParams row clear<?php if ($this->_tpl_vars['place'] == 'bottom'): ?> bottomParams<?php endif; ?>">
     <?php if ($this->_tpl_vars['locator']): ?>
