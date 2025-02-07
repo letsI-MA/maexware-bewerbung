@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 09:16:18
+<?php /* Smarty version 2.6.34, created on 2025-02-07 11:11:46
          compiled from message/errors.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'is_array', 'message/errors.tpl', 1, false),)), $this); ?>

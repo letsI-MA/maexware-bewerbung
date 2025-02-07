@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 09:18:04
+<?php /* Smarty version 2.6.34, created on 2025-02-06 14:19:22
          compiled from shop_list.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'oxmultilangassign', 'shop_list.tpl', 1, false),array('modifier', 'oxaddslashes', 'shop_list.tpl', 31, false),array('function', 'oxmultilang', 'shop_list.tpl', 32, false),)), $this); ?>

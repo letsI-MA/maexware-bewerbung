@@ -1,0 +1,19 @@
+{
+    "name": "yourvendor/mymodule",
+    "description": "Mein erstes Modul für O3-Shop",
+    "type": "oxideshop-module",
+    "version": "1.0.0",
+    "require": {
+    "oxid-esales/oxideshop-ce": "^6.3"
+    },
+    "autoload": {
+    "psr-4": {
+        "YourVendor\\MyModule\\": "src/"
+    }
+    },
+    "extra": {
+    "oxideshop": {
+        "module": "YourVendor\\MyModule"
+    }
+    }
+}

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 09:16:35
+<?php /* Smarty version 2.6.34, created on 2025-02-07 09:55:57
          compiled from navigation.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'navigation.tpl', 4, false),array('modifier', 'lower', 'navigation.tpl', 6, false),array('modifier', 'replace', 'navigation.tpl', 22, false),array('modifier', 'escape', 'navigation.tpl', 66, false),array('modifier', 'default', 'navigation.tpl', 67, false),)), $this); ?>

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 09:16:13
+<?php /* Smarty version 2.6.34, created on 2025-02-07 11:11:44
          compiled from layout/page.tpl */ ?>
 <?php ob_start(); ?>
     <?php if ($this->_tpl_vars['oView']->showRDFa()): ?>

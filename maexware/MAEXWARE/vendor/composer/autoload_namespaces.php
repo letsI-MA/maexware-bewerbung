@@ -6,5 +6,10 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'org\\bovigo\\vfs\\' => array($vendorDir . '/mikey179/vfsstream/src/main/php'),
+    'Selenium' => array($vendorDir . '/o3-shop/php-selenium/src'),
     'Requests' => array($vendorDir . '/rmccue/requests/library'),
+    'Behat\\Mink\\Driver' => array($vendorDir . '/o3-shop/mink-selenium-driver/src'),
+    'Behat\\Mink' => array($vendorDir . '/behat/mink/src'),
+    'Behat\\Gherkin' => array($vendorDir . '/behat/gherkin/src'),
 );

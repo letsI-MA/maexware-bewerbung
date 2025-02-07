@@ -1,0 +1,28 @@
+{
+    "name": "o3-shop/php-selenium",
+    "description": "PHP Library for Selenium",
+    "keywords": ["selenium"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name":      "Alexandre Salomé",
+            "email":     "alexandre.salome@gmail.com",
+            "homepage":  "http://alexandre-salome.fr/"
+        }
+    ],
+
+    "require-dev": {
+        "symfony/dom-crawler": "dev-master"
+    },
+
+    "minimum-stability": "dev",
+
+    "autoload": {
+        "psr-0": {
+            "Selenium": "src/"
+        }
+    },
+    "replace": {
+        "oxid-esales/php-selenium": "1.0.5"
+    }
+}

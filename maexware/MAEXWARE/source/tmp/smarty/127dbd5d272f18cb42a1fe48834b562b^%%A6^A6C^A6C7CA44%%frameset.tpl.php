@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 09:17:52
+<?php /* Smarty version 2.6.34, created on 2025-02-06 16:01:58
          compiled from include/frameset.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'include/frameset.tpl', 5, false),)), $this); ?>

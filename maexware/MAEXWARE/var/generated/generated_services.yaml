@@ -1,0 +1,3 @@
+imports:
+  -
+    resource: ../../vendor/o3-shop/developer-tools/services.yaml

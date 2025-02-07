@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/pdepend/pdepend" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/php-webdriver/webdriver" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/webmozart/glob" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/webmozart/path-util" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/shop-demodata-installer" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/shop-ce" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/php-selenium" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/shop-db-views-generator" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/paypal-module" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/codeception-page-objects" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/mink-selenium-driver" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/shop-facts" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/codeception-modules" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/shop-demodata-ce" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/flow-theme" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/developer-tools" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/shop-composer-plugin" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/shop-ide-helper" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/shop-metapackage-ce" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/shop-doctrine-migration-wrapper" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/shop-unified-namespace-generator" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/gdpr-optin-module" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/testing-library" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/smarty" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/wave-theme" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/tinymce-editor" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/o3-shop/usercentrics" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/composer" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/mikey179/vfsstream" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/codeception/module-db" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/codeception/module-webdriver" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/lock" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/rmccue/requests" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/behat/mink" />
+      <path value="$PROJECT_DIR$/MAEXWARE/vendor/behat/gherkin" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

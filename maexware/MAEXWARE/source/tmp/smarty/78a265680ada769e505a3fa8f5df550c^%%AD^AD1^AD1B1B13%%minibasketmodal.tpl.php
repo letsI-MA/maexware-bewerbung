@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 09:16:17
+<?php /* Smarty version 2.6.34, created on 2025-02-07 11:11:45
          compiled from widget/minibasket/minibasketmodal.tpl */ ?>
 <?php if ($this->_tpl_vars['oxcmp_basket']->isNewItemAdded() && $this->_tpl_vars['oView']->getNewBasketItemMsgType() == 2): ?>
     <?php $_smarty_tpl_vars = $this->_tpl_vars;

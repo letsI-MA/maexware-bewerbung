@@ -1,1 +1,1 @@
-b:0;
+a:1:{s:42:"OxidEsales\Eshop\Application\Model\Article";s:24:"MyModule\Model\MyArticle";}

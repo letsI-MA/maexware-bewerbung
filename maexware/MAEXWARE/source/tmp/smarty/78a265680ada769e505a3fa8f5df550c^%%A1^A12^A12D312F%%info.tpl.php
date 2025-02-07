@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 09:16:19
+<?php /* Smarty version 2.6.34, created on 2025-02-07 11:11:46
          compiled from widget/footer/info.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('block', 'oxifcontent', 'widget/footer/info.tpl', 3, false),array('function', 'oxgetseourl', 'widget/footer/info.tpl', 25, false),array('function', 'oxmultilang', 'widget/footer/info.tpl', 25, false),array('modifier', 'cat', 'widget/footer/info.tpl', 25, false),)), $this); ?>

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 09:16:16
+<?php /* Smarty version 2.6.34, created on 2025-02-07 11:11:45
          compiled from widget/header/search.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'widget/header/search.tpl', 10, false),)), $this); ?>

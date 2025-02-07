@@ -1,0 +1,11 @@
+{
+  "name": "yourvendor/mycustomfieldmodule",
+  "type": "oxideshop-module",
+  "description": "A small module to display a custom field on the article detail page",
+  "license": "GPL-3.0",
+  "autoload": {
+    "psr-4": {
+      "YourVendor\\MyModule\\": "./source/modules/oe/mymodule/src/"
+    }
+  }
+}

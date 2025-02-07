@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-06 09:16:14
+<?php /* Smarty version 2.6.34, created on 2025-02-07 11:11:45
          compiled from widget/header/currencies.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'oxaddparams', 'widget/header/currencies.tpl', 15, false),)), $this); ?>
