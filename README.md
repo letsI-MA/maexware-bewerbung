@@ -1,4 +1,4 @@
-# maexware-bewerbung
+# maexware-application
 ## My O3-Shop application for maexware solutions GmbH
 
 My task was to set up a local development environment using ddev (https://ddev.com/) where an O3 Shop (https://www.o3-shop.com/) is running. The development environment should be shared via a Git repository. The requirement is that another developer should be able to check out the repo and start the project without much effort (e.g., importing a DB dump). For bonus points, I was asked to write a small module for the O3 Shop (a fork of OXID eShop V6) that displays a new custom database field on the product detail page.
@@ -11,7 +11,7 @@ In WSL2, I installed DDEV by following the documentation. After that, I took car
 - Apache 2.2 oder 2.4(on Linux)
 - mod_rewrite installiert und aktiviert (enabled by default on Apache2)
 
-## Datenbank:
+## Database:
 
 Database:
 
@@ -44,7 +44,7 @@ Database:
 ## Composer:
 
 - Composer 2.2
-composer selfupdate --2.2
+`composer selfupdate --2.2`
 
 ## OpenSSL:
 
@@ -89,9 +89,7 @@ Next, I removed individual bugs and got a bit stuck with MariaDB...
 
 ### MariaDB Version Issues:
 
-The documentation states that `MariaDB 10` should work. However, in my case with  `Version 10.11` it didn’t work, and I had to switch to `Version 10.3` wechseln. Furthermore, in the setup, the database creation suggests `localhost` as the host, which is incorrect. A forum post from [ProcessWire](https://processwire.com/talk/topic/29557-using-ddev-database-connection-information-did-not-work/) pointed out that the host should be `db`, not `localhost`. This is due to Docker's DNS resolver in combination with DDEV.
-![greg](https://github.com/user-attachments/assets/be2f9839-a91f-4433-92d6-ef851a9e280b)
-![netcarver](https://github.com/user-attachments/assets/4807f69a-535d-468b-a4a9-4f1e1cb72808)
+The documentation states that `MariaDB 10` should work. However, in my case with  `Version 10.11` it didn’t work, and I had to switch to `Version 10.3`. Furthermore, in the setup, the database creation suggests `localhost` as the host, which is incorrect. A forum post from [ProcessWire](https://processwire.com/talk/topic/29557-using-ddev-database-connection-information-did-not-work/) pointed out that the host should be `db`, not `localhost`. This is due to Docker's DNS resolver in combination with DDEV.
 
 
 
@@ -101,3 +99,5 @@ The documentation states that `MariaDB 10` should work. However, in my case with
 
 
 # Bonus
+
+Currently I'm working on the module that displays a new custom database field on the product detail page.
