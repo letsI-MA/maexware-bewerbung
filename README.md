@@ -98,6 +98,10 @@ The documentation states that `MariaDB 10` should work. However, in my case with
 
 ![terminal](https://github.com/user-attachments/assets/29ec5438-0635-4d03-8051-23f16c9ccb7d)
 
+### Login for /admin
+- User: test@test.de
+- Password: 123456789
+
 
 # Bonus
 
