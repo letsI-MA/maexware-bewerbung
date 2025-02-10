@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-07 11:11:43
+<?php /* Smarty version 2.6.34, created on 2025-02-07 16:19:53
          compiled from widget/product/list.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'math', 'widget/product/list.tpl', 56, false),array('function', 'counter', 'widget/product/list.tpl', 61, false),array('function', 'oxid_include_widget', 'widget/product/list.tpl', 66, false),array('modifier', 'cat', 'widget/product/list.tpl', 62, false),)), $this); ?>

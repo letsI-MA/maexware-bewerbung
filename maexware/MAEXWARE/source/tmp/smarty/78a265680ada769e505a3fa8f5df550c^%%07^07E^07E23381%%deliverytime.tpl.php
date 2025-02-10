@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-07 15:34:09
+<?php /* Smarty version 2.6.34, created on 2025-02-07 21:25:30
          compiled from page/details/inc/deliverytime.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'page/details/inc/deliverytime.tpl', 3, false),array('modifier', 'cat', 'page/details/inc/deliverytime.tpl', 11, false),)), $this); ?>

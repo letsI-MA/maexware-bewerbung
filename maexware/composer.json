@@ -1,0 +1,5 @@
+{
+    "require": {
+        "oxid-esales/module-template": "^3.0"
+    }
+}

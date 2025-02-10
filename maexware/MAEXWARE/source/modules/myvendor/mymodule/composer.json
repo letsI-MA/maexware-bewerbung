@@ -1,0 +1,27 @@
+{
+  "name": "myvendor/mymodule",
+  "description": "Ein Beispiel-Modul für den O3-Shop",
+  "type": "oxideshop-module",
+  "keywords": ["oxid", "o3shop", "module"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dein Name",
+      "email": "dein.email@example.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "oxid-esales/oxideshop-ce": "^6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "myvendor\\mymodule\\": "src/"
+    }
+  },
+  "extra": {
+    "oxideshop": {
+      "target-directory": "myvendor/mymodule"
+    }
+  }
+}

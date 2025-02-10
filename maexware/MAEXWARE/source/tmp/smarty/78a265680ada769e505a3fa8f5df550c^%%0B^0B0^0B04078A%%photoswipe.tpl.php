@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-07 15:34:12
+<?php /* Smarty version 2.6.34, created on 2025-02-07 21:25:35
          compiled from page/details/inc/photoswipe.tpl */ ?>
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="pswp__bg"></div>

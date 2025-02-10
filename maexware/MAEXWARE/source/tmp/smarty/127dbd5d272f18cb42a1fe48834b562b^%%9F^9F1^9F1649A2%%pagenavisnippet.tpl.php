@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-07 09:56:12
+<?php /* Smarty version 2.6.34, created on 2025-02-07 16:20:42
          compiled from pagenavisnippet.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'cat', 'pagenavisnippet.tpl', 7, false),array('modifier', 'default', 'pagenavisnippet.tpl', 22, false),array('function', 'oxmultilang', 'pagenavisnippet.tpl', 29, false),)), $this); ?>

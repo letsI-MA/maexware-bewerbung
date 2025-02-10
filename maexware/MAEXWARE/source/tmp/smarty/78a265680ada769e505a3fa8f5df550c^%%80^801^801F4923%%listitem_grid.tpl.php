@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-07 11:11:43
+<?php /* Smarty version 2.6.34, created on 2025-02-07 16:19:53
          compiled from widget/product/listitem_grid.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('block', 'oxhasrights', 'widget/product/listitem_grid.tpl', 35, false),array('function', 'oxmultilang', 'widget/product/listitem_grid.tpl', 94, false),array('function', 'oxprice', 'widget/product/listitem_grid.tpl', 116, false),)), $this); ?>

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.34, created on 2025-02-07 15:34:08
+<?php /* Smarty version 2.6.34, created on 2025-02-07 21:25:29
          compiled from page/details/inc/fullproductinfo.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'page/details/inc/fullproductinfo.tpl', 11, false),)), $this); ?>
