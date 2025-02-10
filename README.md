@@ -57,9 +57,9 @@ I noticed that after creating the project and running Composer, the folder struc
 ![docroot](https://github.com/user-attachments/assets/31379009-b496-4ed7-a565-91b0ebc5e220)
 
 
-First, I switched the webserver from nginx-fpm to apache fpm as it was listed in the documentation.
+Then I switched the webserver from nginx-fpm to apache-fpm as it was listed in the documentation.
 
-### Then, I set the permissions to `777` as per the documentation:
+### After that I set the permissions to `777` as per the documentation:
 
 - `chmod -R 777 /var/www/html/source/export`
 - `chmod -R 777 /var/www/html/source/log`
@@ -69,7 +69,7 @@ First, I switched the webserver from nginx-fpm to apache fpm as it was listed in
 - `chmod -R 777 /var/www/html/var`
 
 
-### Now, set the permissions for the CLI user to `777`aswell:
+### Now, set the permissions for the CLI user to `777` aswell:
 
 - `chmod -R 777 /var/www/html/var`
 - `chmod -R 777 /var/www/html/source/var`
