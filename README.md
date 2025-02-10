@@ -3,6 +3,9 @@
 
 My task was to set up a local development environment using ddev (https://ddev.com/) where an O3 Shop (https://www.o3-shop.com/) is running. The development environment should be shared via a Git repository. The requirement is that another developer should be able to check out the repo and start the project without much effort (e.g., importing a DB dump). For bonus points, I was asked to write a small module for the O3 Shop (a fork of OXID eShop V6) that displays a new custom database field on the product detail page.
 
+![Shop](https://github.com/user-attachments/assets/8339aa79-d31f-4190-b99d-773354b0787b)
+
+
 At first, I tried to solve the task on my Windows machine, but I quickly abandoned that approach and switched to WSL2.
 In WSL2, I installed DDEV by following the documentation. After that, I took care of the system prerequisites needed for O3-Shop. These are:
 
@@ -12,8 +15,6 @@ In WSL2, I installed DDEV by following the documentation. After that, I took car
 - mod_rewrite installiert und aktiviert (enabled by default on Apache2)
 
 ## Database:
-
-Database:
 
 - MySQL 5.5, 5.7, or 8.0
 - MariaDB (I will go into this later)
